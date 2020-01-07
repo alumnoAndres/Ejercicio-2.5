@@ -18,9 +18,9 @@ h3 {
     text-decoration: underline;
 }
 
-h4 {
+h2 {
     background-color: hsl(200, 15%, 65%);
-    color: hsl(200, 15%, 40%);
+    color:red;
     font-size: 130%;
     font-style: italic;
 }
@@ -30,7 +30,7 @@ p {
 }
 
 em {
-    color: hsl(200, 100%, 40%);
+    color:green;
     font-style: normal;
     font-weight: bold;
 }
